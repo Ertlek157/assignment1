@@ -16,7 +16,7 @@ python3 setup.py install
 from pycoingecko import CoinGeckoAPI
 a = CoinGeckoAPI()
 
-assignment1/src/main.py
+assignment1/src/ass1.py
 ```
 ### Examples
 
