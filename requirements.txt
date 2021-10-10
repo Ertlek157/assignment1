@@ -1,7 +1,5 @@
 python version 3.8.6
-
 pip version 21.2.4
-
 pycoingecko
 Version: 2.2.0
 Summary: CoinGecko API
